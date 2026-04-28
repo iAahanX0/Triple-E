@@ -1,6 +1,6 @@
 """
-Triple-E: Efficient, Emergent, and Explainable Debiasing
-Author: Based on research paper (2026)
+Triple-E: Efficient, Emergent, and Explainable Debiasing for AI Ethics
+Author: Aahan Arora
 Requirements: torch, torchvision, numpy, matplotlib, tqdm, sklearn
 """
 
