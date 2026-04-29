@@ -1,4 +1,6 @@
-Project Title- Triple-E: Efficient, Emergent, and Explainable Debiasing for AI Ethics
-Type- Research Paper
-Author- Aahan Arora 2210991107
-Current Detail- Submitted for Publishing Wating for Approval
+Field,Detail
+Project Title,"Triple-E: Efficient, Emergent, and Explainable Debiasing for AI Ethics"
+Type,Research Paper
+Author Name,Aahan Arora
+Roll No.,2210991107
+Status,Submitted for Publishing (Awaiting Approval)
