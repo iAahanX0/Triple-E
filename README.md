@@ -4,4 +4,4 @@
 | **Type**           | Research Paper                                                         |
 | **Author**         | Aahan Arora                                                            |
 | **Roll No.**       | 2210991107                                                             |
-| **Current Status** | Submitted for Publishing, Waiting for Approval                         |
+| **Current Status** | Published                       |
